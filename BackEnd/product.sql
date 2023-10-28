@@ -40,10 +40,10 @@ CREATE TABLE `assets` (
 --
 
 INSERT INTO `assets` (`id`, `product_name`, `product_price`, `product_detail`, `supply`) VALUES
-(1, 'produk A', 1231312, 'lorem ipsum dolor', 10),
-(4, 'produk B', 1231312, 'lorem ipsum dolor', 10),
-(5, 'produk C', 1231312, 'lorem ipsum dolor', 10),
-(6, 'produk B', 1231312, 'lorem ipsum dolor', 10);
+(1, 'Baju', 50000, 'lorem ipsum dolor', 8),
+(2, 'Celana', 100000, 'lorem ipsum dolor', 10),
+(3, 'Sepatu', 150000, 'lorem ipsum dolor', 5),
+(4, 'Sandal', 20000, 'lorem ipsum dolor', 20);
 
 --
 -- Indexes for dumped tables
